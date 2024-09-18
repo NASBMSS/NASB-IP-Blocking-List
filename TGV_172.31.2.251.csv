@@ -1,0 +1,6 @@
+#! DESCRIPTION = BANVIASIEM,,,,,,
+#! REFERENCE = list of ips banned via SIEM,,,,,,
+# Uniq-Name,#Value,#Type,#Confidence,#Severity,#Product,#Comment
+146.70.52.46,146.70.52.46,IP,high,high,AB,banned_via_siem
+185.117.153.79,185.117.153.79,IP,high,high,AB,banned_via_siem
+77.223.103.53,77.223.103.53,IP,high,high,AB,banned_via_siem
