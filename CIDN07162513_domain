@@ -1,1 +1,12 @@
+#- Static URL.
 
+#Example.
+#fortinet.com
+#facebook.com
+#example.com
+#- URL with wildcard.
+
+# Example.
+#mail.*.fortinet.com
+#*.-special.facebook.com
+#www.*example.com
