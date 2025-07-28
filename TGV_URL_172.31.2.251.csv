@@ -1,2 +1,2 @@
-#Uniq-Name,#Value,#Type,#Confidence,#Severity,#Product,#Comment(CHECKPOINT FW)
+#Uniq-Name,#Value,#Type,#Confidence,#Severity,#Product,#Comment(CHECKPOINT_FW 1)
 #observ1,www.facebook.com,URL,high,high,AV,"""Malicious IP"""
