@@ -1,4 +1,4 @@
-#! DESCRIPTION = BANVIASIEM (CHECKPOINT FW),,,,,,
+#! DESCRIPTION = BANVIASIEM (CHECKPOINT FW 1),,,,,,
 #! REFERENCE = list of ips banned via SIEM,,,,,,
 # Uniq-Name,#Value,#Type,#Confidence,#Severity,#Product,#Comment
 #146.70.52.46,146.70.52.46,IP,high,high,AB,banned_via_siem
