@@ -1,4 +1,5 @@
-#Create a text file with one hash per line. Example:
+#Create a text with one hash per line. Example:
 #sha256:8a5d4b6b24dfb8c3ffb09c3e1f1a7c2c3c62b7b76b53e7a98750f7f514c7dfe9
 #sha256:9b45a2e8b2a95ef3546541ef83b21b47e70a073c876f9c1f4b6cd750c3c4b331
+
 
