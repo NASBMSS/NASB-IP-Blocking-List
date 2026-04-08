@@ -21,7 +21,7 @@ druster-master.com
 draffeler.com
 imagiglobal.com
 prot0n.com
-https://www.mediafire.com
+mediafire.com
 clloudsverify.com
 clouds-verify.com
 cllouds-verify.com
@@ -41,10 +41,10 @@ dynastyjusticecollective.site
 ppower.info
 voipfaqs.com
 teamsbusiness.org
-locallyhyped.com/kurkum/script_66902619887998.92077775.php
+locallyhyped.com
 js-agentnewrelic.com
-hxxps://lineageembraer.online
-hxxps://cdn.shopify.com/s/files/1/0945/8889/5563/files/Special_Mission_Flight_Embraer_Lineage_1000E.pdf?v=1750688015
+lineageembraer.online
+cdn.shopify.com
 js-agentnewrelic.com
 poplook.com
 appletls.com
@@ -70,3 +70,6 @@ focusgroovy.com
 richardkemick.com
 simpludelicios.md
 openclaw.ai
+
+#08/04/2026
+transfer.sh
