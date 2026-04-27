@@ -1,3 +1,0 @@
-#FortiGate_FW 1 FOR  URL Block 
-
-ukrainianworldcongress.info
