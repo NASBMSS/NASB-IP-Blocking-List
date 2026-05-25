@@ -10,5 +10,5 @@ erpsync-120-f41cdcf813e4.herokuapp.com
 #CTA04883
 Legitserver.theworkpc.com
 
-#25/05/2026
+#25/05/2026-SOC
 everycarebd.com
