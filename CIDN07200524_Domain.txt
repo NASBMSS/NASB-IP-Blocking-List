@@ -34,3 +34,10 @@ controlfacturas.site
 creativecommunityinfo.art 
 enhanceblabber.cc
 claude-desktop.gitlab.io
+
+#26/07/2026 - SOC
+newremupdate.duckdns.org
+mail.teamengineersgroup.com
+mail.allportcargoservice.com
+mail.trimnt.com
+mail.taikei-rmc-co.biz
