@@ -54,3 +54,16 @@ who-ripped-one.direct.quickconnect.to
 #22/08/2026 - SOC
 file.wx2.qq.com
 hrefbfdhfhgre-1422102728.cos.ap-hongkong.myqcloud.com
+
+#24/08/2026 - SOC
+xcmtxc1oam1.s3.ap-south-1.amazonaws.com
+ui920fht4m1.s3.mx-central-1.amazonaws.com
+googleplaydown.com
+api.telegram.org
+osy4u8pmu.s3.ap-southeast-1.amazonaws.com
+ejjsi5fbl.s3.ap-southeast-1.amazonaws.com
+svhc5arco.s3.ap-southeast-1.amazonaws.com
+cctvv2.com
+www.v17001.com
+www.w17907.com
+g8688808.com
