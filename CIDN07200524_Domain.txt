@@ -75,3 +75,7 @@ img.darklights.store
 img.responsive.pstatic.autos
 img.socialteams.store
 img.worksongo.store
+
+#26/09/26 - SOC
+broker.hivemq.com
+meet.element.tw
