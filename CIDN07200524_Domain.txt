@@ -79,3 +79,5 @@ img.worksongo.store
 #26/09/26 - SOC
 broker.hivemq.com
 meet.element.tw
+github.com
+raw.githubusercontent.com
