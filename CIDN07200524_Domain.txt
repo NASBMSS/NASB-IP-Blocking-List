@@ -81,3 +81,8 @@ broker.hivemq.com
 meet.element.tw
 github.com
 raw.githubusercontent.com
+
+#03/10/2026 - SOC
+carbonato-proxy-drab.vercel.app
+carbonato-proxy-zeta.vercel.app
+carbonato-proxy-zeta-2.vercel.app
