@@ -86,3 +86,7 @@ raw.githubusercontent.com
 carbonato-proxy-drab.vercel.app
 carbonato-proxy-zeta.vercel.app
 carbonato-proxy-zeta-2.vercel.app
+
+#11/10/2026 - SOC
+orchid-led.com
+bjzhishang.com
