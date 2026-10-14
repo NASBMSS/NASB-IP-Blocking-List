@@ -90,3 +90,9 @@ carbonato-proxy-zeta-2.vercel.app
 #11/10/2026 - SOC
 orchid-led.com
 bjzhishang.com
+
+#14/10/2026 - SOC
+virtualdailyplanner.pro
+telemetry-conf.com
+flycloud-service.com
+airarticlegenerate.com
