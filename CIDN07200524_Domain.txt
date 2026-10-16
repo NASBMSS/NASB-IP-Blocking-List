@@ -96,3 +96,10 @@ virtualdailyplanner.pro
 telemetry-conf.com
 flycloud-service.com
 airarticlegenerate.com
+
+#16/10/2026 - SOC
+admin.chunhuating.best
+admin.xiongmaocs.pics
+admin.rathat.live
+dramaspoolcoa.com
+rathat.me
